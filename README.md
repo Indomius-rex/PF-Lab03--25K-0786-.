@@ -11,9 +11,9 @@ which would effect our GPA and we would get a back like our seniors
 2) banana
 3) melon
 # UNORDERED LIST**
-+ orange
-- banana
-* melon
+ + orange
+ - banana
+ * melon
 # statement
 ***For me, programming is not just a skill, but a way to innovate and make an impact in the digital world.***
 
